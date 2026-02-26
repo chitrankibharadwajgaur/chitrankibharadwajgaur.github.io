@@ -1,0 +1,12 @@
+title: My Portfolio
+description: A professional portfolio showcasing my projects and skills
+author: Chitranki Bharadwaj Gaur
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+url: "https://chitrankibharadwajgaur.github.io"
+baseurl: ""
+
+# Optional settings
+show_downloads: false
+google_analytics:
